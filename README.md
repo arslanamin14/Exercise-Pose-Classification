@@ -1,0 +1,1 @@
+This project involves an analysis of exercise poses using computer vision techniques. It includes data preprocessing, model training, and evaluation to classify and recognize different exercise poses from images. The analysis aims to provide accurate pose identification, leveraging machine learning models to enhance fitness tracking and assessment
